@@ -1,0 +1,27 @@
+[submodule "background_generator"]
+	path = background_generator
+	url = git@github.com:RonM-11/background_generator.git
+[submodule "Face_Recognit_Front"]
+	path = Face_Recognit_Front
+	url = git@github.com:RonM-11/Face_Recognit_Front.git
+[submodule "Face_Recognit_Server"]
+	path = Face_Recognit_Server
+	url = git@github.com:RonM-11/Face_Recognit_Server.git
+[submodule "portfo"]
+	path = portfo
+	url = git@github.com:RonM-11/portfo.git
+[submodule "react_tv_show"]
+	path = react_tv_show
+	url = git@github.com:RonM-11/react_tv_show.git
+[submodule "roboFriend"]
+	path = roboFriend
+	url = git@github.com:RonM-11/roboFriend.git
+[submodule "startup-test"]
+	path = startup-test
+	url = git@github.com:RonM-11/startup-test.git
+[submodule "web_covid19_test"]
+	path = web_covid19_test
+	url = git@github.com:RonM-11/web_covid19_test.git
+[submodule "TV_Show_Project"]
+	path = TV_Show_Project
+	url = git@github.com:RonM-11/TV_Show_Project.git
